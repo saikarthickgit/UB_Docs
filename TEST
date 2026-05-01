@@ -1,0 +1,218 @@
+
+Skip to Content
+(UB)
+Office of the VPCIO
+University at Buffalo (UB)
+UB Information Technology
+MyUB / HUB
+UBmail
+Help
+Services
+News and Alerts
+IT Policies
+About Us
+Search
+Info For
+UBIT Services Microsoft 365 Microsoft Teams Adding Cisco Call to Microsoft Teams
+Microsoft 365
+System requirements / Eligibility
+Install Microsoft 365 on your computer
+Use apps in a web browser
+Find Microsoft 365 mobile apps
+Saving and sharing with OneDrive
+Microsoft Teams
+Adding Cisco Call to Microsoft Teams
+Microsoft Bookings
+Microsoft Bookings with me
+Choosing the Right Microsoft Booking App
+Microsoft 365 help & learning (microsoft.com)
+Microsoft Scheduling Poll
+Adding Cisco Call to Microsoft Teams
+To place or receive calls from Microsoft Teams using your UB phone number, we recommend installing the Cisco Call app within Teams.
+
+Dental school students/UB student assistants with exception accounts: Use Jabber due to Cisco Call/Webex login problems
+Dental school students and UB student assistants with exception accounts attempting to log into Cisco Call will experience the following sign-in error: “Use a different email address or contact your buffalo.edu admin to create an account.” 
+
+These student employees should continue to use Jabber for phone services until further notice. 
+
+On this page:
+Cisco Call Features
+Step 1: Install the Webex app
+Step 2: Add Cisco Call to Teams and pin to the App Bar
+E911 Settings on a PC or Mac
+Smartphones and 911 calls
+Audio Settings
+Using Cisco Call
+Multiple Lines
+See also
+Cisco Call Features
+Fully featured softphone client
+Integrated into Microsoft Teams once installed and pinned to the app bar
+Access Cisco Call using your UB login credentials
+Allows you to make and receive calls from your UB phone number from on or off campus, as long as you have an internet connection
+Provides access to your UB voicemail
+End-to-end encryption of calls
+e911 support
+Request a UB phone number if you do not have one
+Video call and chat options
+Audio and video calls to others who are using MS Teams are available using the MS Teams Call app. 
+
+Webex does not have Instant Messaging (IM) or chat room services.  If you have a Jabber chat room you can still use Jabber, but it is highly recommended that you migrate it into a MS Teams channel as soon as possible.
+
+Step 1: Install the Webex app
+Cisco Call requires you to download and install Webex. Webex is available for downloading on the respective platform sites:
+
+UB-issued machines:
+Windows - Software Center
+Mac - Self Service app
+Self-managed machines - https://www.webex.com/downloads.html
+iPhone - App Store
+Android - Google play
+Search on Webex and follow the installation instructions.  For mobile devices, make sure to install the Webex client and not the Webex Meeting app.
+
+During installation allow all the access it requests or else it will not run properly.
+
+Once installed, the Webex Calling client will run silently in the background.
+
+Step 2: Add Cisco Call to Teams and pin to the App Bar
+1. At the bottom of the left panel (“App Bar”), click on the +Apps button
+
+2. Enter Cisco Call in the search bar
+
+3. Select Open
+
+Zoom image: Click Open after you search for Cisco Call.Click Open after you search for Cisco Call.
+4. Cisco Call will now appear at the bottom of the App Bar.  Right-click and Pin it or else it will disappear from the App Bar:
+
+Zoom image: Pin Cisco Call to your App Bar in TeamsPin Cisco Call to your App Bar in Teams.
+E911 Settings on a PC or Mac
+Manually-created entries for locations take precedence over discovered locations
+Location instructions:
+
+On Campus using a wired connection: NO ACTION REQUIRED.
+On Campus using a wireless connection or working remotely: DO NOT SET YOUR LOCATION AHEAD OF TIME.  Manually set your location using the steps below when physically present at that location.
+Wired connections on campus
+Do not set anything in relation to e911.  The 9line e911 system will automatically discover your device and determine your work location to the UB building and specific room for all UB documented wired network connections.
+
+Adding campus locations (when connected using Wi-Fi)
+Manually set your location using the steps below when physically present at that location.
+
+1. When setting the first location, for Windows go to Hidden Icons in the taskbar and open the Webex app. For Mac, open the Webex app from your Applications
+
+Zoom image: Click the caret in the task bar and select the Webex appClick the caret in the task bar and select the Webex app.
+2. Click E911 settings
+
+Zoom image: select e911 settingsselect e911 settings.
+3. Add a label such as Work. You must use the Official UB Building Service address as base address and add specific room location in the available free-form field at the bottom:
+
+North Campus – Amherst, NY 14260
+South Campus – Buffalo, NY 14214
+Downtown Campus – Buffalo, NY 1420X
+Zoom image: enter a dispatchable address, including UB zip codeenter a dispatchable address, including UB zip code.
+4. After selecting Save, the client will confirm that you set a dispatchable location. 
+
+When done correctly you will see Address successfully saved
+Zoom image: Address successfully saved will appearAddress successfully saved will appear.
+If it doesn’t find a match with a valid address, you will have to try again
+Zoom image: If the address is invalid, you will see an error message that the address entered is invalid.If the address is invalid, you will see an error message that the address entered is invalid.
+Adding a home office (work from home) location
+For your alternate work location (work from home), manually create and set that work location when physically present (this only needs to be done once).
+Your official address for a home office is your official home mailing address. 
+When entering a home office location, everything must be a 100% match with what’s on file with your local county or else the address lookup with fail with “Address not found”.  That is, if you enter “Maple Road” it will fail because it is registered as “Maple Rd”.
+
+If you’re uncertain of the syntax, use Google Maps to get the correct information for your location.
+
+Open Webex:
+For Windows, go to Hidden Icons (^) in the taskbar and open the Webex app
+For Mac, open the Webex app from your Applications
+Select E911 settings
+Click Clear address 
+Enter a label such as Home and then enter your home address as it is recorded with the county
+Click Save: 
+If it is successful, you are set
+If it is not successful, change the information (e.g., Rd instead of Road) until the address saves successfully
+Smartphones and 911 calls
+When on your smartphone, Webex will automatically send 911 calls out the native dialer and use your cellular provider’s tracking for a location. Do not set a location manually.
+
+Audio Settings
+Check the Webex/Cisco Call Audio Settings to confirm your preferred devices are selected.  These are independent of the settings in MS Teams and may not necessarily match.
+
+1. In MS Teams click on Call settings
+
+Zoom image: Click Call SettingsClick Call Settings.
+2. Click Audio in the pop-up and make adjustments to select your desired device and volume, and the correct microphone:
+
+In Webex the default Ringers and Alerts setting is All Devices and is set at a loud volume.  Use the pulldown to select the preferred device and/or adjust the volume control.
+Check that the correct microphone is being used to avoid poor call quality at the far end of the conversation.
+Zoom image: Select Audio and adjust settings as desired.Select Audio and adjust settings as desired.
+Using Cisco Call
+When using wired connections on campus, do not set anything in relation to e911.
+The 9line e911 system will automatically discover your device and determine your work location to the UB building and specific room for all UB documented wired network connections.
+
+Learn how to use Cisco Call once it's installed (Cisco) 
+Taking call control away from Jabber
+If you login and see the following pop-up message, you are still logged into Jabber.  Click Sign in which allows Webex to take control of phone services from Jabber,
+
+Zoom image: Your phone is in use error message, indicating you are still signed into Jabber. Your phone is in use error message, indicating you are still signed into Jabber.
+Multiple Lines
+If you have multiple lines provisioned in Jabber, they will work in Webex.  All inbound calls will ring and appear in your Recent Calls history of MS Teams.
+
+By default, your personal line is selected for making outbound calls.  Open the Calling dock to use another line:
+
+1. Click on the ellipsis (. . .) in the upper right corner and slide the Calling dock toggle button to the right.
+
+Zoom image: Under the ellipsis, toggle the slider next to Calling dock by sliding it to the right.Under the ellipsis, toggle the slider next to Calling dock by sliding it to the right.
+2. In the Calling dock, click on the handset icon in the upper left near your name and select the desired line
+
+Zoom image: Select the line you want to useSelect the line you want to use.
+This will remain as the selected line for making outbound calls until changed using the same steps.  If you receive an inbound call, it will not change the selected line to use for outbound calls.
+
+See also
+Phones (VoIP)
+Need more help with technology at UB?
+Contact the UBIT Help Center.
+
+UBIT Services Microsoft 365 Microsoft Teams Adding Cisco Call to Microsoft Teams
+Help
+UBIT Help Center
+Getting Help from Your Department
+Safe Computing
+New to UB
+Student service guides
+Faculty service guides
+Staff service guides
+Services A-Z
+Cost of Services
+News and Alerts
+All UB Tech News
+UBIT Alerts
+UB Tech Talk Video Podcast
+About Us
+Strategic Initiatives + Engagement
+Governance and Advisory Groups
+Our People
+UBIT Jobs
+UBIT Mission, Vision, Values, Goal Statements
+Forms
+Submit a Ticket
+Request UB Learns Course Combination
+Request UB Learns Administrative Course Site
+Request to Send Mass Email
+Request to Delete a Listserv List
+Request a New Listserv List
+MyUB Contact
+Level Up Space Use Request
+IT Policies
+UB Policy Library
+Handling Restricted Data at UB
+IT Policies, Standards and Guidelines
+University at Buffalo (UB), The State University of New York
+Follow UBIT
+YouTube
+Instagram
+UBIT on X (Formerly known as Twitter)
+ 
+
+Send corrections to ubit-communication@buffalo.edu
+
+© 2026 University at Buffalo. All rights reserved.  |  Privacy  |  Accessibility
